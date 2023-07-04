@@ -22,6 +22,7 @@ body {
   scroll-behavior: smooth;
   overflow-x: hidden;
   height: 3000px;
+  scroll-behavior: smooth;
 }
 .container {
   padding-inline: 10px;
